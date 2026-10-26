@@ -1,0 +1,2 @@
+# Verified against MCP Python SDK 2.1.0; v1 has a different low-level callback API.
+mcp==2.1.0
